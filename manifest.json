@@ -11,7 +11,7 @@
       "src": "budget192x192.jpg",
       "sizes": "192x192",
       "type": "image/png"
-    },
+    }
     {
       "src": "budget511x511.jpg",
       "sizes": "511x511",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
